@@ -31,7 +31,7 @@ describe("Create a Manager array and return it - createManager", function() {
 
 //Trial 2 - create a formation object and return it
 describe("Create a team formation object and return it - createFormation", function() {
-  it("Defines createFormation", function() {
+    it("Defines createFormation", function() {
     expect(typeof createFormation).toBe("function");
   });
 
